@@ -1,0 +1,16 @@
+run,randam_number,depth_increment,noise,num_layers_psi,num_neurons_psi,num_layers_theta,num_neurons_theta,num_layers_K,num_neurons_K,MSE_theta,MSE_psi,MSE_K,MSE_flux
+sandy_loam_depth_1_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_111,111,1,0,6,40,3,40,2,20,1.25647E-06,4116708.16,0.004756042,0.025951677
+sandy_loam_depth_1_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_222,222,1,0,6,40,3,40,2,20,1.50081E-06,830136.1922,0.009369414,0.02989739
+sandy_loam_depth_1_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_333,333,1,0,6,40,3,40,2,20,2.38944E-06,3944827.102,0.040545989,0.059515768
+sandy_loam_depth_1_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_444,444,1,0,6,40,3,40,2,20,1.96609E-06,1327542.279,0.015458213,0.046139213
+sandy_loam_depth_1_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_555,555,1,0,6,40,3,40,2,20,1.9777E-06,883067.2923,0.040943159,0.053989627
+sandy_loam_depth_2_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_111,111,2,0,6,40,3,40,2,20,7.35156E-05,75629.26099,24.82065432,23.20113801
+sandy_loam_depth_2_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_222,222,2,0,6,40,3,40,2,20,0.000113689,75610.86429,28.26293335,27.01255258
+sandy_loam_depth_2_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_333,333,2,0,6,40,3,40,2,20,7.13082E-05,75631.21035,29.97554455,27.80810053
+sandy_loam_depth_2_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_444,444,2,0,6,40,3,40,2,20,3.44171E-05,67466.87486,2.384975288,2.25197026
+sandy_loam_depth_2_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_555,555,2,0,6,40,3,40,2,20,2.83503E-05,70724.00202,2.830901222,2.645874821
+sandy_loam_depth_3_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_111,111,3,0,6,40,3,40,2,20,0.000250105,75629.03148,24.50486564,23.76365844
+sandy_loam_depth_3_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_222,222,3,0,6,40,3,40,2,20,0.000295729,75585.74262,12.57617164,13.08300023
+sandy_loam_depth_3_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_333,333,3,0,6,40,3,40,2,20,0.00010062,75628.33728,19.46018339,18.67059801
+sandy_loam_depth_3_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_444,444,3,0,6,40,3,40,2,20,0.000774117,75196.42562,9.615882822,9.638506611
+sandy_loam_depth_3_noise_0_lay_psi_6_neu_psi_40_lay_theta_3_neu_theta_40_lay_K_2_neu_K_20_random_555,555,3,0,6,40,3,40,2,20,0.000568374,74930.33188,3.079791041,4.293866647
