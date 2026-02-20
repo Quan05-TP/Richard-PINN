@@ -5,7 +5,7 @@
 # %tensorflow_version 2.x
 # !pip uninstall -y tensorflow
 # !pip install tensorflow-gpu==1.14.0
-# dfs 
+# 要用CPU运行
 
 import numpy as np
 import pandas as pd
